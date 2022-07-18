@@ -1,0 +1,18 @@
+<annotation>
+            <folder>train</folder>
+            <filename>class a\IMG_20220704_084944.jpg</filename>
+            <size>
+                <width>224</width>
+                <height>224</height>
+                <depth>3</depth>
+            </size>
+            <object>
+                <name>images</name>
+                <bndbox>
+                    <xmin>11</xmin>
+                    <ymin>10</ymin>
+                    <xmax>203</xmax>
+                    <ymax>203</ymax>
+                </bndbox>
+            </object>
+    </annotation>
